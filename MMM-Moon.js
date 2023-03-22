@@ -1,9 +1,9 @@
 Module.register("MMM-Moon", {
   defaults:{
     category: "Astronomy",
-    lat: 41.657,
-    lon: 91.534,
-    timezone: "America/Chicago"
+    lat: 35.0142084,
+    lon: 25.7445223,
+    timezone: "Europe/Athens"
   },
   content:"",
 
